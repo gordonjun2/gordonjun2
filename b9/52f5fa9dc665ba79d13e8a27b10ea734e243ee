@@ -1,0 +1,19 @@
+LICENSE
+  s_7c93b511191b28::t_2145d4b4b0bc2f 1-21
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "b952f5fa9dc665ba79d13e8a27b10ea734e243ee",
+  "prompts": {},
+  "sessions": {
+    "s_7c93b511191b28": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ee36ed3f2ffe5nvZmcLkvY21Ih",
+        "model": "glm-5.3-flash"
+      },
+      "human_author": "Gordon Oh <gordonoh@yahoo.com.sg>"
+    }
+  }
+}
