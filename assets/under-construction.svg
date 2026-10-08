@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="36" viewBox="0 0 360 36" role="img" aria-label="Under construction">
+  <defs>
+    <pattern id="stripes" width="16" height="16" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <rect width="16" height="16" fill="#ffd23f"/>
+      <rect width="8" height="16" fill="#24292f"/>
+    </pattern>
+  </defs>
+  <rect x="1" y="1" width="358" height="34" fill="url(#stripes)" stroke="#24292f"/>
+  <rect x="88" y="6" width="184" height="24" fill="#24292f"/>
+  <text x="180" y="22" text-anchor="middle" font-family="'Courier New',Courier,monospace" font-weight="bold" font-size="11" fill="#ffd23f">UNDER CONSTRUCTION
+    <animate attributeName="opacity" values="1;0.35;1" dur="1.2s" repeatCount="indefinite"/>
+  </text>
+</svg>
