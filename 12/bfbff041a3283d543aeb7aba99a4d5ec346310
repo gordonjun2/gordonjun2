@@ -1,0 +1,21 @@
+assets/chart.svg
+  s_cc4882bb2a55bd::t_e7e716b324a624 1-34
+assets/under-construction.svg
+  s_cc4882bb2a55bd::t_5fad2e7ac68d08 1-13
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "12bfbff041a3283d543aeb7aba99a4d5ec346310",
+  "prompts": {},
+  "sessions": {
+    "s_cc4882bb2a55bd": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ee362d2c0ffeEsg9P10iOnxwYh",
+        "model": "glm-5.3-flash"
+      },
+      "human_author": "Gordon Oh <gordonoh@yahoo.com.sg>"
+    }
+  }
+}
