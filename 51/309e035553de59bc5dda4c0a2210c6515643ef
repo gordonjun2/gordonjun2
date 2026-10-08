@@ -1,0 +1,19 @@
+docs/superpowers/specs/2026-10-09-github-profile-readme-design.md
+  s_36e4802d54c980::t_9b5432f9ada812 1-107
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "51309e035553de59bc5dda4c0a2210c6515643ef",
+  "prompts": {},
+  "sessions": {
+    "s_36e4802d54c980": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ee37ea856ffeaeOYVxMO7uOcIu",
+        "model": "glm-5.3-flash"
+      },
+      "human_author": "Gordon Oh <gordonoh@yahoo.com.sg>"
+    }
+  }
+}
