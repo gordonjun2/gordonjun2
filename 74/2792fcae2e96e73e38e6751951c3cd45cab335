@@ -1,0 +1,23 @@
+assets/btn-nfa.svg
+  s_eb0fec458510f0::t_fa37b6937129d1 1-11
+assets/btn-vibes.svg
+  s_eb0fec458510f0::t_42a89605a5c342 1-6
+assets/btn-1996.svg
+  s_eb0fec458510f0::t_0a71ee26b46dc1 1-6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "742792fcae2e96e73e38e6751951c3cd45cab335",
+  "prompts": {},
+  "sessions": {
+    "s_eb0fec458510f0": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ee366e4e6ffeEx4OVJ5aIJfHEc",
+        "model": "glm-5.3-flash"
+      },
+      "human_author": "Gordon Oh <gordonoh@yahoo.com.sg>"
+    }
+  }
+}
