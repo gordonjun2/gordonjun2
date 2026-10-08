@@ -1,0 +1,19 @@
+docs/superpowers/plans/2026-10-09-retro-profile-readme.md
+  s_36e4802d54c980::t_899a8c769eb273 1-429
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "64d677e8a60c2b434f34aaeaf03cfaf89f7895a7",
+  "prompts": {},
+  "sessions": {
+    "s_36e4802d54c980": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ee37ea856ffeaeOYVxMO7uOcIu",
+        "model": "glm-5.3-flash"
+      },
+      "human_author": "Gordon Oh <gordonoh@yahoo.com.sg>"
+    }
+  }
+}
