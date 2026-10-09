@@ -1,0 +1,19 @@
+README.md
+  s_be9c1b977c230f::t_4055ec4f61983a 1-77
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "404075a53dca5d056d8a539b9445fd0c49924c87",
+  "prompts": {},
+  "sessions": {
+    "s_be9c1b977c230f": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ee1d9921cffe5AO95mcww7yppT",
+        "model": "glm-5.3-flash"
+      },
+      "human_author": "Gordon Oh <gordonoh@yahoo.com.sg>"
+    }
+  }
+}
