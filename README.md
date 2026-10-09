@@ -13,15 +13,18 @@ builder of bots · wrangler of LLMs · degen by night
 
 ### 🕹️ NOW BUILDING
 
-| 🎮 CARTRIDGE | INFO |
+| 🎮 CATEGORY | QUEST LOG |
 | --- | --- |
-| 📡 [tg_sentinel](https://github.com/gordonjun2/tg_sentinel) | Telegram sentinel bot (Python) |
-| 📈 [crypto-trading-analysis](https://github.com/gordonjun2/crypto-trading-analysis) | market analysis in Jupyter |
-| 🧪 [tracectrl](https://github.com/gordonjun2/tracectrl) | web experiment (HTML) |
-| 🌐 [agentic-builders-collective.github.io](https://github.com/gordonjun2/agentic-builders-collective.github.io) | builders collective site (Astro) |
-| 🔒 serendip-tg `[STEALTH]` | AI matchmaking Telegram mini-app — ask me about it |
-| 🔒 aied `[STEALTH]` | adaptive AI learning platform |
-| 🔒 shorts-gen-wealth `[STEALTH]` | short-form finance content pipeline |
+| 🤖 AI & LLM apps | matchmaking + adaptive-learning mini-apps on an async LLM stack |
+| 📡 Telegram ops | bots, sentinels & automation keeping the wire safe |
+| 📈 Markets | trading analysis + short-form finance content pipelines |
+| 🌐 Web & community | web experiments + platforms for the collectives I run |
+
+`> full inventory:` [REPOSITORIES](https://github.com/gordonjun2?tab=repositories)
+
+### 🟢 CO-OP MODE
+
+managing a community with my team → [**sisc.club**](https://www.sisc.club/)
 
 ### 🧰 LOADOUT
 
@@ -53,25 +56,8 @@ builder of bots · wrangler of LLMs · degen by night
   </tr>
 </table>
 
-### 📈 CRYPTO CORNER
-
-`$ cat trust_me_bro.csv`
-
-<img alt="pixel chart going up" src="assets/chart.svg" width="560">
-
-<img alt="not financial advice" src="assets/btn-nfa.svg" width="88">
-
-### 🚧 OLD WEB ZONE
-
-<img alt="best viewed in 1996" src="assets/btn-1996.svg" width="88">
-<img alt="now with 100 percent more vibes" src="assets/btn-vibes.svg" width="88">
-
-<img alt="under construction" src="assets/under-construction.svg" width="360">
-
-![profile views](https://komarev.com/ghpvc/?username=gordonjun2&style=for-the-badge&color=blueviolet)
-
 ### 👾 CONTACT
 
-`> INSERT COIN TO CONNECT:` [▶ PRESS START](mailto:gordonoh@yahoo.com.sg)
+`> INSERT COIN TO CONNECT:` [▶ PRESS START](mailto:gordonoh@yahoo.com.sg) · [💼 LINKEDIN](https://www.linkedin.com/in/jia-jun-gordon-oh/)
 
 </div>
