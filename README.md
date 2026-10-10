@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/hero.svg">
-  <img alt="GORDON_OH.EXE — has entered the chat" src="assets/light/hero.svg" width="700">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/hero-night.svg">
+  <img alt="GORDON_OH.EXE — has entered the chat" src="assets/light/hero-day.svg" width="700">
 </picture>
 
 ### `> whoami`
@@ -14,24 +14,19 @@ builder of bots · wrangler of LLMs · degen by night
   <img alt="" src="assets/light/divider.svg" width="400">
 </picture>
 
-### 🌴 NOW BUILDING
+![NOW BUILDING](assets/hd-building.svg)
 
-| 🎮 CATEGORY | QUEST LOG |
-| --- | --- |
-| 🤖 AI & LLM apps | matchmaking + adaptive-learning mini-apps on an async LLM stack |
-| 📡 Telegram ops | bots, sentinels & automation keeping the wire safe |
-| 📈 Markets | trading analysis + short-form finance content pipelines |
-| 🌐 Web & community | web experiments + platforms for the collectives I run |
+![Quest log — AI and LLM apps: matchmaking and adaptive-learning mini-apps; Telegram ops: bots, sentinels and automation; Markets: trading analysis and finance content pipelines; Web and community: platforms for my collectives](assets/questlog.svg)
 
 `> full inventory:` [REPOSITORIES](https://github.com/gordonjun2?tab=repositories)
 
-### 📡 CO-OP MODE
+![CO-OP MODE](assets/hd-coop.svg)
 
 managing a community with my team →
 
 [![Join sisc.club](assets/btn-sisc.svg)](https://www.sisc.club/)
 
-### ⚡ LOADOUT
+![LOADOUT](assets/hd-loadout.svg)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-05948C?style=flat-square&logo=fastapi&logoColor=white)
@@ -66,7 +61,7 @@ managing a community with my team →
   <img alt="" src="assets/light/divider.svg" width="400">
 </picture>
 
-### 👾 CONTACT
+![CONTACT](assets/hd-contact.svg)
 
 `> INSERT COIN TO CONNECT:`
 
