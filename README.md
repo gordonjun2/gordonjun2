@@ -1,15 +1,18 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/sunset.svg">
-  <img alt="GORDON_OH.EXE — has entered the chat" src="assets/light/sunrise.svg" width="700">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/hero.svg">
+  <img alt="GORDON_OH.EXE — has entered the chat" src="assets/light/hero.svg" width="700">
 </picture>
 
 ### `> whoami`
 
 builder of bots · wrangler of LLMs · degen by night
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/divider.svg">
+  <img alt="" src="assets/light/divider.svg" width="400">
+</picture>
 
 ### 🌴 NOW BUILDING
 
@@ -24,7 +27,9 @@ builder of bots · wrangler of LLMs · degen by night
 
 ### 📡 CO-OP MODE
 
-managing a community with my team → [**sisc.club**](https://www.sisc.club/)
+managing a community with my team →
+
+[![Join sisc.club](assets/btn-sisc.svg)](https://www.sisc.club/)
 
 ### ⚡ LOADOUT
 
@@ -56,8 +61,15 @@ managing a community with my team → [**sisc.club**](https://www.sisc.club/)
   </tr>
 </table>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/divider.svg">
+  <img alt="" src="assets/light/divider.svg" width="400">
+</picture>
+
 ### 👾 CONTACT
 
-`> INSERT COIN TO CONNECT:` [▶ PRESS START](mailto:gordonoh@yahoo.com.sg) · [💼 LINKEDIN](https://www.linkedin.com/in/jia-jun-gordon-oh/)
+`> INSERT COIN TO CONNECT:`
+
+[![Press start — email me](assets/btn-start.svg)](mailto:gordonoh@yahoo.com.sg) [![LinkedIn](assets/btn-linkedin.svg)](https://www.linkedin.com/in/jia-jun-gordon-oh/)
 
 </div>
