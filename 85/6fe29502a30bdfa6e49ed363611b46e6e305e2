@@ -1,0 +1,26 @@
+assets/dark/sunset.svg
+  s_36e4802d54c980::t_4f8c3471902706 3-61
+README.md
+  s_36e4802d54c980::t_be54647fb8cd5c 25,46-47
+  s_36e4802d54c980::t_6ed09c8a5078d2 14
+  s_36e4802d54c980::t_d4286bcb16303e 4-5
+  s_36e4802d54c980::t_dfa2a71e675026 29,52-53
+assets/light/sunrise.svg
+  s_36e4802d54c980::t_8017cd04dc21fe 3-61
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "856fe29502a30bdfa6e49ed363611b46e6e305e2",
+  "prompts": {},
+  "sessions": {
+    "s_36e4802d54c980": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ee37ea856ffeaeOYVxMO7uOcIu",
+        "model": "glm-5.3-flash"
+      },
+      "human_author": "Gordon Oh <gordonoh@yahoo.com.sg>"
+    }
+  }
+}
