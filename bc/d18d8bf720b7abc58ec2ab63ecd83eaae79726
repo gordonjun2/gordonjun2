@@ -1,0 +1,34 @@
+assets/light/hero-day.svg
+  s_36e4802d54c980::t_dc5e0e250f9f76 4-102
+README.md
+  s_36e4802d54c980::t_e8c52bae5fa74c 4-5,17,19,23
+  s_36e4802d54c980::t_5d3a1b81864881 29,64
+assets/questlog.svg
+  s_36e4802d54c980::t_1f4c78ead96190 1-26
+assets/hd-building.svg
+  s_36e4802d54c980::t_6e4a1772174861 1-16
+assets/dark/hero-night.svg
+  s_36e4802d54c980::t_8ae281ec0be333 5-121
+assets/hd-coop.svg
+  s_36e4802d54c980::t_c79543113f86f9 1-16
+assets/hd-contact.svg
+  s_36e4802d54c980::t_93a14ed33a20af 1-16
+assets/hd-loadout.svg
+  s_36e4802d54c980::t_1a6684dcdcbe78 1-16
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "bcd18d8bf720b7abc58ec2ab63ecd83eaae79726",
+  "prompts": {},
+  "sessions": {
+    "s_36e4802d54c980": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ee37ea856ffeaeOYVxMO7uOcIu",
+        "model": "glm-5.3-flash"
+      },
+      "human_author": "Gordon Oh <gordonoh@yahoo.com.sg>"
+    }
+  }
+}
