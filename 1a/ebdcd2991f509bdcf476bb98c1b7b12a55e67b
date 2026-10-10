@@ -1,0 +1,33 @@
+README.md
+  s_36e4802d54c980::t_e9efb6ffde60e7 4-5,12-15,30-32,64-68,71-73
+assets/btn-sisc.svg
+  s_36e4802d54c980::t_914b8af820c665 1-19
+assets/dark/hero.svg
+  s_36e4802d54c980::t_f4c6a5d8e68ff8 4-120
+assets/light/hero.svg
+  s_36e4802d54c980::t_f9cd70bcd56986 4-108
+assets/btn-linkedin.svg
+  s_36e4802d54c980::t_27a5f15a37b579 1-18
+assets/light/divider.svg
+  s_36e4802d54c980::t_4a216d1ae5f01d 1-15
+assets/dark/divider.svg
+  s_36e4802d54c980::t_3f696169f3de9f 1-15
+assets/btn-start.svg
+  s_36e4802d54c980::t_a972678b611f28 1-19
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "1aebdcd2991f509bdcf476bb98c1b7b12a55e67b",
+  "prompts": {},
+  "sessions": {
+    "s_36e4802d54c980": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ee37ea856ffeaeOYVxMO7uOcIu",
+        "model": "glm-5.3-flash"
+      },
+      "human_author": "Gordon Oh <gordonoh@yahoo.com.sg>"
+    }
+  }
+}
