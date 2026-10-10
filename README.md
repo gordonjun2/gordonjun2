@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/banner.svg">
-  <img alt="GORDON_OH.EXE — has entered the chat" src="assets/light/banner.svg" width="700">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/sunset.svg">
+  <img alt="GORDON_OH.EXE — has entered the chat" src="assets/light/sunrise.svg" width="700">
 </picture>
 
 ### `> whoami`
@@ -11,7 +11,7 @@ builder of bots · wrangler of LLMs · degen by night
 
 ---
 
-### 🕹️ NOW BUILDING
+### 🌴 NOW BUILDING
 
 | 🎮 CATEGORY | QUEST LOG |
 | --- | --- |
@@ -22,11 +22,11 @@ builder of bots · wrangler of LLMs · degen by night
 
 `> full inventory:` [REPOSITORIES](https://github.com/gordonjun2?tab=repositories)
 
-### 🟢 CO-OP MODE
+### 📡 CO-OP MODE
 
 managing a community with my team → [**sisc.club**](https://www.sisc.club/)
 
-### 🧰 LOADOUT
+### ⚡ LOADOUT
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-05948C?style=flat-square&logo=fastapi&logoColor=white)
@@ -43,14 +43,14 @@ managing a community with my team → [**sisc.club**](https://www.sisc.club/)
   <tr>
     <td width="50%">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=gordonjun2&show_icons=true&hide_border=true&count_private=true&theme=github_dark">
-        <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=gordonjun2&show_icons=true&hide_border=true&count_private=true&theme=default">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=gordonjun2&show_icons=true&hide_border=true&count_private=true&theme=synthwave">
+        <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=gordonjun2&show_icons=true&hide_border=true&count_private=true&theme=radical">
       </picture>
     </td>
     <td width="50%">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gordonjun2&layout=compact&hide_border=true&theme=github_dark">
-        <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gordonjun2&layout=compact&hide_border=true&theme=default">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gordonjun2&layout=compact&hide_border=true&theme=synthwave">
+        <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gordonjun2&layout=compact&hide_border=true&theme=radical">
       </picture>
     </td>
   </tr>
